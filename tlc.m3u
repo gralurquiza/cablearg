@@ -186,7 +186,7 @@ http://200.60.124.19:29000/play/a01g/index.m3u8
 http://38.172.138.30:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", France 24 ESPAÑOL
-http://45.228.234.133:8000/play/a05a/index.m3u8
+http://200.60.124.19:29000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/rai@2x.png" group-title="Internacionales", RAI
 http://143.0.67.77:8000/play/a02p/index.m3u8
@@ -195,7 +195,7 @@ http://143.0.67.77:8000/play/a02p/index.m3u8
 http://200.115.120.1:8000/play/ca060/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="Internacionales", BBC News
-http://45.228.234.133:8000/play/a059/index.m3u8
+http://38.41.8.1:8000/play/a0wa
 
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRXa4spPp-4sq5SEYWTdxp-pclfjHHjFSqrnMbA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Spanish" group-title="Internacionales", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
