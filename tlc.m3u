@@ -165,7 +165,7 @@ http://200.4.244.29:8000/play/a01v
 
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png" group-title="Internacionales", Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+http://38.7.101.90:8000/play/a1gp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/DNEWS%20128.png" group-title="Internacionales", DNews
 http://45.230.38.117:8000/play/a02n
