@@ -183,7 +183,7 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 http://200.60.124.19:29000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="Internacionales", CGTN ESPAÑOL
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+http://38.172.138.30:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", France 24 ESPAÑOL
 http://45.228.234.133:8000/play/a05a/index.m3u8
