@@ -41,7 +41,7 @@ http://201.217.246.177:8000/play/a01q/index.m3u8
 http://143.0.67.77:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5l4mX6T5S99MoV24ss1vT2/3788b94142ed98b2e3b5fb200fc0acf4/15_informacion_periodistica.png?fm=webp&q=80" group-title="Nacionales", IP
-http://181.78.27.128:8000/play/a055/index.m3u8
+http://181.78.27.128:12543/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/44c39L5vrAJMmitx6stmVN/aada5123e58530c834a4715aafce63e8/20_CANAL-26-noticias.png?fm=webp&q=80" group-title="Nacionales" , CANAL 26
 http://143.0.67.77:8000/play/a01r/index.m3u8
