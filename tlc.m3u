@@ -142,7 +142,7 @@ http://143.0.67.77:8000/play/a04z/index.m3u8
 http://138.121.114.34:8000/play/a1a3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/20068539.jpg" group-title="Infantiles", Dreamworks
-http://45.173.201.51:4000/play/a0n3/index.m3u8
+http://45.5.151.62:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Infantiles", Discovery Kids
 http://143.0.67.77:8000/play/a06t/index.m3u8
