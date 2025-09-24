@@ -249,7 +249,7 @@ http://200.80.230.123:8000/play/a02y/index.m3u8
 http://200.80.230.123:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSzO0UauKeVnjiVx9Dccj-mmMa70EoZzXJQ&s" group-title="Cine", DHE
-http://8.242.176.45:1013/play/a041/index.m3u8
+http://190.104.67.219:234/play/a0p6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoAZOsu7ffvwjCFbNx5Kw5G1beLgqUBNqq2A&s" group-title="Cine", Cine Latino
 http://8.242.176.45:1013/play/a06b/index.m3u8
