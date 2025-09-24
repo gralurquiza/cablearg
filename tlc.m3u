@@ -386,7 +386,7 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 http://200.80.230.123:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Culturales", Food Network
-http://8.242.176.45:1013/play/a027/index.m3u8
+http://38.44.109.41:8003/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="Culturales" , Discovery Science 
 http://200.80.230.123:8000/play/a02k/index.m3u8
