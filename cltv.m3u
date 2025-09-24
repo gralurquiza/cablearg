@@ -8,25 +8,25 @@ http://200.80.230.123:8000/play/a06e/index.m3u8
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/mPtDXrj7PWlaIzFPVW6HJ/acb5a9d4b438c9baedab91d3d18670cb/01_NetTV.png?fm=webp&q=80" group-title="Nacionales" , NET TV
-http://186.0.248.113:8000/play/a0bs/index.m3u8
+https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7582OR45uswFne9WSFDuv8/fb447b4c508470938f346b4f5a05917a/02_America.png?fm=webp&q=80" group-title="Nacionales" , AMERICA TV
-http://200.80.230.123:8000/play/a055/index.m3u8
+http://200.80.230.123:8000/play/a0a7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4Dyn70sIkPArFytOILfyOw/b197e03db0d6bdd5868966f23bd0a88d/03_Telefe.png?fm=webp&q=80" group-title="Nacionales" , TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/312yMcrIGiQtdig5oClpwN/76083b34ced746c828b959983b69e979/04_TVPublica.png?fm=webp&q=80" group-title="Nacionales" , TV Publica
-http://45.5.150.5:8887/play/a0ai/index.m3u8
+http://200.80.230.123:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6P3cAVk7GNmmuj0S16nCnb/a88ae2224ef75d7d31597ec2cffdc7c6/12_canal-9.png?fm=webp&q=80" group-title="Nacionales" , El Nueve
-http://200.80.230.123:8000/play/a04h/index.m3u8
+http://200.80.230.123:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7v21fUf1ohsZC8dAioaBTU/1aff791f15e4d84c246e644c06494899/13_canal-13.png?fm=webp&q=80" group-title="Nacionales" , El Trece
-http://200.80.230.123:8000/play/a0bg/index.m3u8
+http://200.80.230.123:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/P9DSwbBtpDc64qzkkvaVy/1f341a80ea6da24308d5fe5dd3f610a0/14_canal-todo-noticias.png?fm=webp&q=80" group-title="Nacionales" , Todo Noticias
-http://200.80.230.123:8000/play/a058/index.m3u8
+http://200.80.230.123:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1EzjHrOUp9kFWVibh33PBx/24e13bd53138b4aa07e5bc88517b888b/05_America24.png?fm=webp&q=80" group-title="Nacionales" , A24
 http://200.80.230.123:8000/play/a01o/index.m3u8
@@ -47,7 +47,7 @@ http://181.78.27.128:12543/play/a055/index.m3u8
 http://200.80.230.123:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/40oFdOwjbZ5W32HhJvZ5SY/3aadf330f22bae03fb8e886bfc3c4a1a/09_Encuentro.png?fm=webp&q=80" group-title="Nacionales" , ENCUENTRO
-http://181.78.27.128:8000/play/a04t/index.m3u8
+http://200.80.230.123:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7eZSig7m04RPctxKG7WkVd/37bdb0192cf9835d03356ac176884fb7/22-CANAL_E-Noticias.png?fm=webp&q=80" group-title="Nacionales",  CANAL E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -80,13 +80,13 @@ http://38.49.128.38:8000/play/a0cm/index.m3u8
 http://200.80.230.123:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3NCwVCRCmBEov5n6ou5hAA/c4270c0c6d2988c47c6350ca36175180/13_ESPN.png?fm=webp&q=80" group-title="Deportes" , ESPN
-http://200.80.230.123:8000/play/a05a/index.m3u8
+http://200.80.230.123:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4mdSmIihFejWNGVPiIMkvz/d76a823f16543c95ec31e0cea741201a/14_ESPN2.png?fm=webp&q=80" group-title="Deportes" , ESPN 2
-http://200.80.230.123:8000/play/a059/index.m3u8
+http://200.80.230.123:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/40Af6YGkRbNo4itC8W6bq4/609b923b2441aa8b32a7d5f9fec977c9/15_ESPN3.png?fm=webp&q=80" group-title="Deportes" , ESPN 3
-http://200.80.230.123:8000/play/a05b/index.m3u8
+http://200.80.230.123:8000/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/ESPN%204.jpg" group-title="Deportes",ESPN 4
 http://200.80.230.123:8000/play/a076/index.m3u8
@@ -95,7 +95,7 @@ http://200.80.230.123:8000/play/a076/index.m3u8
 http://200.80.230.123:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4aUalIxOYo8Wm9dBLL4Jc/42b4317edaf316d7018cca8d947300b4/Fox-Sports-2.png?fm=webp&q=80" group-title="Deportes" , Fox Sports 2
-http://200.80.230.123:8000/play/a05c/index.m3u8
+http://200.80.230.123:8000/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/240XGo19vZRnYoMKvObsC6/dc718d70a21c8c562ec4ec6fb3d5754a/Fox-Sports-3.png?fm=webp&q=80" group-title="Deportes" , Fox Sports 3
 http://200.80.230.123:8000/play/a02t/index.m3u8
@@ -116,7 +116,7 @@ http://200.115.96.66:4000/play/a0e0/index.m3u8
 http://200.80.230.123:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6iImzHdrQ2ec0JbRAFKEDG/354cf6196b96de87f6bc2e195e7e866b/Premium_02_TNTSports-color.png?fm=webp&q=80" group-title="Deportes" , TNT SPORTS
-http://200.80.230.123:8000/play/a0bc/index.m3u8
+http://200.80.230.123:8000/play/a0bk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4vHPfk0CvMP0EJNkC80AmI/4ab2051a0484bb03dc8ab5ab7cfd62e1/25_DiscoveryKids.png?fm=webp&q=80" group-title="Infantiles" , Discovery Kids
 http://200.80.230.123:8000/play/a06t/index.m3u8
@@ -125,7 +125,7 @@ http://200.80.230.123:8000/play/a06t/index.m3u8
 http://200.80.230.123:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2jh9KUAX0pFmFIQdx0hYAN/755b89fb275f55001259b7386904495d/28_DisneyJr.png?fm=webp&q=80" group-title="Infantiles" , Disney Junior
-http://200.80.230.123:8000/play/a04y/index.m3u8
+http://200.80.230.123:8000/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1l5rQEtOVHxuQK62jbIaQl/1bd3e287fddd97c71cf2f3b5d9e5fe85/Canal_-_TeenNick.png?fm=webp&q=80" group-title="Infantiles" , Teen Nick
 http://45.228.234.133:8000/play/a04s/index.m3u8
@@ -134,7 +134,7 @@ http://45.228.234.133:8000/play/a04s/index.m3u8
 http://200.80.230.123:8000/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4FfqGZIakO1SIpDRZH4EZE/08f366576db2f3d05b7e56e2197454cc/31_NickHD.png?fm=webp&q=80" group-title="Infantiles" , Nick HD
-http://200.80.230.123:8000/play/a04z/index.m3u8
+http://200.80.230.123:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/12DDQ6rj1D1XJgbfFJlE7Y/25ac07e1aba869cb590ecece1418a9f4/35_CartoonNetworkHD.png?fm=webp&q=80" group-title="Infantiles" , Cartoon Network HD
 http://200.80.230.123:8000/play/a075/index.m3u8
