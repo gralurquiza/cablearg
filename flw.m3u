@@ -162,8 +162,7 @@ http://45.5.150.5:8887/play/a08s/index.m3u8
 http://200.80.230.123:8000/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s" group-title="Infantiles", Plim Plim
-http://45.230.199.108:8000/play/a00g/index.m3u8
-
+http://200.115.120.1:8000/play/ca091/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" audio-track="spa" group-title="HBO", HBO
 http://181.13.252.102:8000/play/a06o/index.m3u8
