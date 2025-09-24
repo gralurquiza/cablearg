@@ -410,7 +410,7 @@ http://200.80.230.123:8000/play/a02m/index.m3u8
 http://200.80.230.123:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="Musica", VORTERIX
-https://g3.mc-hor.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
 http://200.80.230.123:8000/play/a0ag/index.m3u8
