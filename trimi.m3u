@@ -264,7 +264,7 @@ http://45.5.117.182:8000/play/a0fg/index.m3u8
 http://200.60.124.19:29000/play/a0d9/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Varios", Food Network
-http://181.176.153.106:8090/play/a0x5/index.m3u8
+http://38.44.109.41:8003/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Varios", El Gourmet
 http://200.80.230.123:8000/play/a06w/index.m3u8
