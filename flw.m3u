@@ -323,7 +323,7 @@ http://200.80.230.123:8000/play/a07h/index.m3u8
 http://200.115.96.61:9090/play/a0dj/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Varios", Discovery TLC
-http://186.0.248.113:8000/play/a0bh/index.m3u8
+http://181.78.109.48:9998/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="Varios" , HGTV 
 http://200.80.230.123:8000/play/a02j/index.m3u8
