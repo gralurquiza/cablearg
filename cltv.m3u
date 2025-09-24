@@ -333,19 +333,19 @@ http://200.80.230.123:8000/play/a05g/index.m3u8
 http://38.159.227.126:8000/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/32n20IZvi60FVhckqjnhrT/16696255515e884f71a729171f33895c/95_History.png?fm=webp&q=80" group-title="Culturales" , History  
-http://200.80.230.123:8000/play/a051/index.m3u8
+http://200.80.230.123:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="Culturales" , CANAL A 
 http://200.80.230.123:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6AxsQaLOHP3xwHmicPTuTF/ff3c5c8494751d34459b466b30640de3/10_Rural.png?fm=webp&q=80" group-title="Varios" , CANAL Rural
-http://138.121.114.50:8000/play/a02f/index.m3u8
+http://200.80.230.123:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="Varios", Chacra TV
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ON8A9RJLupcBvYnw9uKhN/e2163b8f88b1bcf59259e328a0457698/97_CNNEspanol.png?fm=webp&q=80" group-title="Internacional" , CNN Español 
-http://200.80.230.123:8000/play/a054/index.m3u8
+http://200.80.230.123:8000/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7dFW8ObBhLGbX7a2srHRzD/b611742e2e344fa79f56b49566134bd6/101_France24.png?fm=webp&q=80" group-title="Internacional" , France 24
 http://200.121.48.17:8000/play/a05a/index.m3u8
@@ -402,7 +402,7 @@ http://200.80.230.123:8000/play/a02m/index.m3u8
 http://200.229.147.210:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
-http://170.239.188.252:8000/play/a09o/index.m3u8
+http://200.80.230.123:8000/play/a0ag/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/CgwggygXgjsIHg6swkMw6/ca9e373606cd48f2d40d8a937ec686ba/116_MTVLive.png?fm=webp&q=80" group-title="Musica" , MTV Live
 http://200.229.147.210:8000/play/a0b0/index.m3u8
