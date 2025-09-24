@@ -105,7 +105,7 @@ http://200.80.230.123:8000/play/a0af/index.m3u8
 http://200.80.230.123:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
-http://45.228.234.133:8000/play/a05v/index.m3u8
+http://181.79.84.66:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7bpzYrUNwKD8bjUR4L4xEF/2b2c1bced3899a54e9143558f19e5ebd/78_HolaTV.png?fm=webp&q=80" group-title="Entretenimiento" , Hola TV
 http://160.20.165.246:8000/play/a009/index.m3u8
