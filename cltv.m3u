@@ -179,10 +179,10 @@ http://200.80.230.123:8000/play/a07e/index.m3u8
 http://200.80.230.123:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2WywBmAu4XrHLK8Env2Yys/84a7f4f36e45ba0cff53ae674ede27f8/52_A_E.png?fm=webp&q=80" group-title="Entretenimiento" , A&E HD
-http://160.20.165.246:8000/play/a00k/index.m3u8
+http://200.80.230.123:8000/play/a0av/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5ACGfVlFTHfyv2ktSrDufK/32e9f43dd323e82dbf42b7169ed1a5ff/53_AXNHD.png?fm=webp&q=80" group-title="Entretenimiento" , AXN HD
-http://200.80.230.123:8000/play/a05f/index.m3u8
+http://200.80.230.123:8000/play/a0aw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6RYXhIj8X3iJXwJPaFpvuJ/519fc4b700613824c5b9f5fe2d35915e/54_Cinemax.png?fm=webp&q=80" group-title="Entretenimiento" , CINEMAX HD
 http://200.60.124.19:29000/play/a025/index.m3u8
@@ -194,22 +194,22 @@ http://190.60.37.154:45000/play/a04m/index.m3u8
 http://200.80.230.123:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6BmfCAHPAMiBzoa8PGzRIC/9941693b3a972c25282d1a5552f2a7b8/56_Warner.png?fm=webp&q=80" group-title="Entretenimiento" , WARNER
-http://200.80.230.123:8000/play/a05e/index.m3u8
+http://200.80.230.123:8000/play/a0b3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3xbmRhqiIzmq92SsYm9qdb/4746ff2397a15eca1cea47c50eebffd4/57_Universal.png?fm=webp&q=80" group-title="Entretenimiento" , UNIVERSAL
-http://200.80.230.123:8000/play/a05j/index.m3u8
+http://200.80.230.123:8000/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1DYLLjssPwaKSUZcHCvYSc/370fcadeb79594c94da41eaf50d76c4f/58_SYFY.png?fm=webp&q=80" group-title="Entretenimiento" , USA
-http://160.20.165.246:8000/play/a01e/index.m3u8
+http://200.80.230.123:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="Entretenimiento" , STUDIO UNIVERSAL
-http://138.121.114.50:8000/play/a022/index.m3u8
+http://200.80.230.123:8000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4Vkfv5keqVu7UbEmijRtvk/00e71f5f3bf45213c810dd484ad3ea4c/60_Telemundo.png?fm=webp&q=80" group-title="Entretenimiento" , TELEMUNDO
 http://200.60.124.19:29000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , VOLVER
-http://186.125.218.199:13000/play/a021/index.m3u8
+http://200.80.230.123:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , TVE
 http://200.60.124.19:29000/play/a01z/index.m3u8
@@ -249,16 +249,16 @@ http://200.60.124.19:29000/play/a04w/index.m3u8
 http://38.44.109.41:8003/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7icW4eGEsDwYW0SGbEizl0/11e491f83fef667f6b5242efe73ce4c5/Premium_04_HBO.png?fm=webp&q=80" group-title="Premium" , HBO
-http://186.125.218.199:13000/play/a06o/index.m3u8
+http://200.80.230.123:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69ZCAfInUfsT4Q4HKNqenB/e663327079caa7727a6c92f421375c47/Premium_08_HBO2.png?fm=webp&q=80" group-title="Premium" , HBO 2
-http://186.125.218.199:13000/play/a06q/index.m3u8
+http://200.80.230.123:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ebb9rED2Ut2MWogfEMWq2/ac8d80f6fd0c403474144aee4723510b/Premium_06_HBOPlus.png?fm=webp&q=80" group-title="Premium" , HBO PLUS HD
-http://186.125.218.199:13000/play/a06p/index.m3u8
+http://200.80.230.123:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5bKzSwd0Mu1shRgqL7xwWD/80c78ad02cdc722d2035cbe4395fb5f8/Premium_03_HBOFamily.png?fm=webp&q=80" group-title="Premium" , HBO FAMILY HD
-http://186.125.218.199:13000/play/a06r/index.m3u8
+http://200.80.230.123:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6jfONrEkrlw7SiKxsIsZr1/dea17656d92bae154876d07dc1391863/Premium_09_HBOExtreme.png?fm=webp&q=80" group-title="Premium" , HBO Xtreme 
 http://200.80.230.123:8000/play/a02b/index.m3u8
@@ -267,7 +267,7 @@ http://200.80.230.123:8000/play/a02b/index.m3u8
 http://200.80.230.123:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3OamYggD5kfGpnHPj6LcN6/c06f94dbe8efe062bd7d85825acb283e/Premium_10_HBOPOP.png?fm=webp&q=80" group-title="Premium" , HBO POP
-http://181.176.153.106:8090/play/a0qc/index.m3u8
+http://200.80.230.123:8000/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="Premium" , HBO Signature HD
 http://200.80.230.123:8000/play/a02c/index.m3u8
@@ -275,8 +275,8 @@ http://200.80.230.123:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Premium" , Universal Premiere
 http://45.5.150.5:8887/play/UNIVERSALPREMIERE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="Premium" , Universal Cinema
-http://45.5.150.5:8887/play/UNIVERSALPREMIERE2/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="PremiumL" , Universal Cinema
+http://80.80.91.195:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="Premium" , Universal Comedy
 http://45.5.150.5:8887/play/UNIVERSALCOMEDY/index.m3u8
@@ -286,7 +286,6 @@ http://45.5.150.5:8887/play/UNIVERSALCRIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="Premium" , Universal Reality
 http://45.5.150.5:8887/play/a0te/index.m3u8
-
 
 
 
