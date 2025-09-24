@@ -219,7 +219,7 @@ http://200.229.147.210:8000/play/a0aq/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/34c67hv0nOq5BrBaEcSqDx/710f3144ad00783b2499a54737334199/64_Atreseries.png?fm=webp&q=80" group-title="Entretenimiento" , ATRESERIES
-http://45.4.169.50:8000/play/a08o
+http://45.160.12.200:8008/play/090/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/rbHuH1zjZ5kt0WupDBqWO/d6a34cf574515559d2754d4d8a4d961e/65_AMC.png?fm=webp&q=80" group-title="Entretenimiento" , AMC
 http://200.80.230.123:8000/play/a01z/index.m3u8
