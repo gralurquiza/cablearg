@@ -289,7 +289,7 @@ http://200.80.230.123:8000/play/a02y/index.m3u8
 http://190.60.32.178:8178/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/iEmoAG070AQj6Z04qanWm/eb443a668d8bb7ef8cf1c9f49cae701a/73_Pasiones.png?fm=webp&q=80" group-title="Entretenimiento" , Pasiones
-http://186.125.218.199:13000/play/a09y/index.m3u8
+http://190.104.67.37:234/play/a0p3/index.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="Entretenimiento", Telemundo Internacional
 http://45.230.38.117:8000/play/a04i
