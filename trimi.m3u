@@ -222,7 +222,7 @@ http://200.80.230.123:8000/play/a02c/index.m3u8
 http://201.217.246.177:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
-http://138.121.114.34:8000/play/a1a3/index.m3u8
+http://138.121.114.34:8000/play/a1a3/index.m3u8 
 
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="Infantiles", Cartoon Network
 http://200.80.230.123:8000/play/a075/index.m3u8
