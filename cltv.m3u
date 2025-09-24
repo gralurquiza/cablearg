@@ -294,7 +294,7 @@ http://45.5.150.5:8887/play/a0te/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/1vOr987UvYsrSe6OaJYjwC/6dae8fa901df15a54f871ea90ff99385/GOLDEN_IPTV.webp?fm=webp&q=80" group-title="Entretenimiento" , GOLDEN
-http://45.228.234.133:8000/play/a0jv/index.m3u8
+http://179.51.160.246:8888/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Tyd8Wxc1Y48d3Fz2myu9B/e4979c8a6e5bdadc10871ff9a93fd5fc/76_DiscoveryH_H.png?fm=webp&q=80" group-title="Varios" , Discovery Home & Health
 http://200.80.230.123:8000/play/a07h/index.m3u8
