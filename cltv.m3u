@@ -128,7 +128,7 @@ http://200.80.230.123:8000/play/a02r/index.m3u8
 http://200.80.230.123:8000/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1l5rQEtOVHxuQK62jbIaQl/1bd3e287fddd97c71cf2f3b5d9e5fe85/Canal_-_TeenNick.png?fm=webp&q=80" group-title="Infantiles" , Teen Nick
-http://45.228.234.133:8000/play/a04s/index.m3u8
+http://181.188.216.5:18000/play/a0jq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1KehLI8MzjpPqlQQV9DWop/7ac7011448316d0a2bf3d14fce7f59ff/32_NickJr.png?fm=webp&q=80" group-title="Infantiles" , Nick Jr
 http://200.80.230.123:8000/play/a06u/index.m3u8
