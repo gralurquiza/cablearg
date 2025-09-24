@@ -328,7 +328,7 @@ http://181.78.109.48:9998/play/a04o/index.m3u8
 http://200.80.230.123:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7bpzYrUNwKD8bjUR4L4xEF/2b2c1bced3899a54e9143558f19e5ebd/78_HolaTV.png?fm=webp&q=80" group-title="Varios" , Hola TV
-http://160.20.165.246:8000/play/a009/index.m3u8
+http://190.61.55.234:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Varios", Rural TV
 http://200.80.230.123:8000/play/a02f/index.m3u8
