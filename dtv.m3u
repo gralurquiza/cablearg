@@ -374,7 +374,7 @@ http://200.80.230.123:8000/play/a0ac/index.m3u8
 http://200.80.230.123:8000/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="Deportes", Golf Channel
-http://45.228.234.133:8000/play/a04q/index.m3u8
+http://190.102.151.6:9998/play/a04w
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 http://200.80.230.123:8000/play/a02s/index.m3u8
